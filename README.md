@@ -108,6 +108,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 
 Hi there! I'm **Amadea Nauraleza Permadi**. I’m an aerospace engineering fresh graduate who's passionate about data engineering and data analytics!
-
-
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
